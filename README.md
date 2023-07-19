@@ -13,11 +13,11 @@ Explore these interactive maps to visualize populist strongholds within major It
 [Turin](https://populiststrongholds.github.io/populist-strongholds/maps/map_TORINO.html), [Milan](https://populiststrongholds.github.io/populist-strongholds/maps/map_MILANO.html), [Firenze](https://populiststrongholds.github.io/populist-strongholds/maps/map_FIRENZE.html), [Bologna](https://populiststrongholds.github.io/populist-strongholds/maps/map_BOLOGNA.html), [Roma](https://populiststrongholds.github.io/populist-strongholds/maps/map_ROMA.html) and [Palermo](https://populiststrongholds.github.io/populist-strongholds/maps/map_PALERMO.html). Click on the city to access the map (preferably by desktop)
 
 ## download area
-Download the light version of the dataset [here](https://github.com/populiststrongholds/populist-strongholds/blob/main/data/dataset_populisti_sezioni.csv)  
+Download the project folder with data and the Python notebook to reproduce the analysis [here](https://github.com/populiststrongholds/populist-strongholds/raw/main/populist_strongholds.rar):
 
-Download the project folder with data and the Python notebook to reproduce the analysis [here](link):
+Download the light version of the dataset [here](https://raw.githubusercontent.com/populiststrongholds/populist-strongholds/main/data/dataset_populisti_sezioni.csv)
 
-Note that part of the data (electoral results and shapefiles) comes from the SEI [SEI (Sezioni Elettorali Dataset)](https://github.com/populiststrongholds/dati-sezioni-elettorali). Please cite both our paper and the SEI dataset if you make use of our data or maps.
+Note that part of the data (electoral results and shapefiles) comes from the SEI [SEI (Sezioni Elettorali Dataset)](https://github.com/gabrielepinto/dati-sezioni-elettorali). Please cite both our paper and the SEI dataset if you make use of our data or maps.
 
 
 
