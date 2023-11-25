@@ -4,8 +4,7 @@
 # The Urban Roots of Populism: mapping and explaining populist strongholds within major Italian cities (2013-2022)
 The impact of local contexts on populist voting patterns is receiving more attention, after being initially underestimated in the research literature. Populist support tends to be concentrated in areas “left behind” or “that don’t matter”, but we still lack an accurate understanding of (1) the locations of these places within major cities and (2) what characteristics of urban contexts prompt the populist vote. We aim to bridge this gap by analysing precinct-level electoral results of populist parties within six major Italian cities over the 2013-2022 decade. Through novel maps of the within-city populist vote, we identify four types of urban environments: populist strongholds, emerging populist, sporadically populist, and never-populist areas. We then investigate how two types of intra-urban factors – compositional and contextual – relate to the formation of populist strongholds and support for populist parties with distinct ideological profiles. The findings improve our comprehension of the urban “places of populism” and highlight the need for the “left behind” thesis to focus more fully on within-city patterns and divides. 
 
-Authors: XX and YY  
-[Link to the pubblication (not yeat available)]()
+[Crulli, M.](https://orcid.org/0000-0002-9656-7567), & [Pinto, G.](www.gabrielepinto.com) (2023). The urban roots of populism: Mapping and explaining populist strongholds within major Italian cities (2013–2022). European Urban and Regional Studies, 0(0). https://doi.org/10.1177/09697764231210800
 
 
 ## Explore the maps  
